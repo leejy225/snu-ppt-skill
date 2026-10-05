@@ -1,0 +1,4 @@
+interface:
+  display_name: "SNU PPT Skill"
+  short_description: "Create SNU-branded 16:9 academic presentation slides."
+  default_prompt: "Create a Seoul National University 16:9 presentation deck using the bundled SNU logo, 80th anniversary emblem, official color palette, typography guidance, grid alignment, and centered object spacing rules."
